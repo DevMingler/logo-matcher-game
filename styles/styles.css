@@ -3,7 +3,9 @@
 }
 
 #page-body{
-    background-image: "./images/devmingler-bliss-background.jpeg";
+    min-height: 100%;
+    background-size: cover;
+    background-image: url("../images/devmingler-bliss-background.jpeg");
 }
 
 .w3-hover-opacity{
