@@ -6,3 +6,15 @@
     background-image: "./images/devmingler-bliss-background.jpeg";
 }
 
+.w3-hover-opacity{
+    cursor: pointer;
+}
+
+.logo-guess{
+    width: 50%;
+}
+
+.logo-guess-container{
+    width:20%;
+    text-align: center;
+}
