@@ -31,3 +31,10 @@ input{
 .logo-guess-container{
     text-align: center;
 }
+
+/* I set the margin-bottom to 50px since it allows the user to scroll down and answer the last questions without having the footer covering 
+ * the text box. Phillip Andrews
+ */
+.w3-row-padding {
+    margin-bottom: 50px;
+}
